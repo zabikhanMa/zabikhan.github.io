@@ -1,4 +1,4 @@
- import { productsInCart } from "Cart.JS";
+ import { productsInCart } from "./Cart.JS";
  let prodMap=new Map();
 document.addEventListener('click',(event)=>{
 
